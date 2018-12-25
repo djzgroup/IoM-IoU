@@ -1,0 +1,1 @@
+python train-ucf24.py --data_root=K:\Action\data\ucf24\ --save_root=K:\Action\data\output\ --visdom=True --input_type=rgb --stepvalues=30000,60000,90000 --max_iter=120000
