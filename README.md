@@ -7,8 +7,8 @@ In this paper, we study the challenging problem of constructing high-quality act
 (2) We take both IoM-IoU computation and score reweighting into consideration to yield robust reweighted scores for constructing action tubes in an online fashion.
 (3) Our action tube construction approach can be inserted into existing convolutional architectures for action localization/classification in real time.
 
+![这里随便写文字](https://github.com/djzgroup/IoM-IoU/blob/master/pipeline.jpg)
 
-https://github.com/djzgroup/IoM-IoU/blob/master/pipeline.jpg
 
 ## Performance
 Action localization results (mAP) on untrimmed videos of the UCF101-24 dataset in split1.
