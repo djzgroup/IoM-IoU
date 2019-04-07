@@ -9,7 +9,7 @@ In this paper, we study the challenging problem of constructing high-quality act
 
 ## Pipeline
 The proposed pipeline of action tube construction from untrimmed videos. Our approach consists of four phases: (a) a spatial object detector based on an SSD detector \cite{liu2016ssd}, (b) our IoM-IoU approach, (c) reweight scores based on spatial and temporal information, and (d) the action tube construction approach.
-![XXXXXX](https://github.com/djzgroup/IoM-IoU/blob/master/pipeline.jpg)
+![](https://github.com/djzgroup/IoM-IoU/blob/master/pipeline.jpg)
 
 ## Performance
 Action localization results (mAP) on untrimmed videos of the UCF101-24 dataset in split1.
