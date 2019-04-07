@@ -118,3 +118,6 @@ You can verify the method of this article by executing “run_OUR.m”.
 - [4] Suman Saha, Gurkirt Singh, Michael Sapienza, Philip HS Torr, and Fabio Cuzzolin. Deep learning for detecting multiple space-time action tubes in videos. British Machine Vision Conference, 2016.
 - [5] Jiawei He, Mostafa S Ibrahim, Zhiwei Deng, and Greg Mori. Generic tubelet proposals for action localization. arXiv preprint arXiv:1705.10861, 2017.
 - [6] gurkirt Singh, Suman Saha, Michael Sapienza, Philip Torr, and Fabio Cuzzolin. Online real-time multiple spatiotemporal action localisation and prediction. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 3637-3646, 2017.
+
+## Acknowledgment
+This work was supported in part by the National Natural Science Foundation of China under Grant 61702350 and Grant 61472289 and in part by the Open Project Program of the State Key Laboratory of Digital Manufacturing Equipment and Technology, HUST, under Grant DMETKF2017016.
