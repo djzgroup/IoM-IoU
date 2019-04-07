@@ -1,5 +1,6 @@
 # IoM-IoU
-Online real-time high-quality action tube construction for spatiotemporal action localization
+
+### Online real-time high-quality action tube construction for spatiotemporal action localization
 
 In this paper, we study the challenging problem of constructing high-quality action tubes in video with multiple overlapping action instances. Most existing approaches only link the current bounding box to the action tubes when the intersection over union (IoU) between the current and last bounding boxes of the action tube exceeds a threshold. We propose a novel action tube construction approach for online real-time multiple spatiotemporal action localization and classification. Compared with online and offline methods, our approach achieves state-of-the-art performance for both appearance and optical flow data on the UCF-101-24 untrimmed dataset. Major contributions can be summarized as follows:
 (1) We propose a novel IoU computation approach (IoM-IoU) to overcome the shortcomings in handling action instance overlap.
