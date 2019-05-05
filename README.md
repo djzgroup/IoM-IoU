@@ -112,7 +112,7 @@ Action localization results (mAP) on untrimmed videos of the UCF101-24 dataset i
 ## CODE
 The code is developed in the TensorFlow environment.
 ```bash
-You can verify the method of this article by executing “run_OUR.m”.
+You can verify the method of this article by executing “test-ucf24.py”.
 ```
 
 ## References
